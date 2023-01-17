@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="internetBankingV1" >
+
+    <!--<listeners>
+         <listener class-name="internetBanking.utilities.ExtentReportUtils"></listener>
+    </listeners>-->
+   <test name="BankingApp Test" >
+      <parameter name="browser" value="chrome"/>
+       <classes> 
+         <!-- <class name="com.internetBanking.testCases.TC_LoginTest_001" />-->
+           <!--<class name="com.internetBanking.testCases.TC_Login_DDT_002_"/>-->
+           <class name="com.internetBanking.testCases.TC_AddcustomerTest_003"/>
+           <!--<class name="TestNG.samplerun" />-->
+       </classes>
+   </test>
+ </suite>

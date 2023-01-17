@@ -1,0 +1,249 @@
+2022-12-24 12:20:35,249 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Url is opened
+2022-12-24 12:20:35,476 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter UserName
+2022-12-24 12:20:35,725 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter password
+2022-12-24 12:20:41,481 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Then click on login
+2022-12-24 12:20:41,497 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Test is failed
+2022-12-25 08:16:28,665 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Url is opened
+2022-12-25 08:16:29,990 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter UserName
+2022-12-25 08:16:30,354 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter password
+2022-12-25 08:16:33,810 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Then click on login
+2022-12-25 08:16:33,836 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Test is failed
+2022-12-25 08:26:43,519 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Url is opened
+2022-12-25 08:26:43,834 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter UserName
+2022-12-25 08:26:44,058 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter password
+2022-12-25 08:26:44,631 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Then click on login
+2022-12-25 08:26:44,651 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Test is failed
+2022-12-25 10:41:16,935 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Url is opened
+2022-12-25 10:41:17,244 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter UserName
+2022-12-25 10:41:18,270 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter password
+2022-12-25 10:41:36,360 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Then click on login
+2022-12-25 10:41:36,385 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Test is failed
+2022-12-25 11:27:09,672 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Url is opened
+2022-12-25 11:27:10,854 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter UserName
+2022-12-25 11:27:11,038 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter password
+2022-12-25 11:27:16,639 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Then click on login
+2022-12-25 11:27:16,690 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Test is failed
+2022-12-25 11:32:42,296 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Url is opened
+2022-12-25 11:32:42,862 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter UserName
+2022-12-25 11:32:43,066 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter password
+2022-12-25 11:32:47,053 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Then click on login
+2022-12-25 11:32:47,069 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Test is failed
+2022-12-28 15:46:55,935 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Url is opened
+2022-12-28 15:46:57,104 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter UserName
+2022-12-28 15:46:58,302 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter password
+2022-12-28 15:46:59,400 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Then click on login
+2022-12-28 15:46:59,436 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Test is failed
+2022-12-29 15:54:23,752 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Url is opened
+2022-12-29 15:54:25,437 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter UserName
+2022-12-29 15:54:25,641 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter password
+2022-12-29 15:54:30,336 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Then click on login
+2022-12-29 15:54:30,401 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Test is failed
+2022-12-29 15:59:30,940 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Url is opened
+2022-12-29 15:59:31,273 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter UserName
+2022-12-29 15:59:31,513 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter password
+2022-12-29 15:59:34,768 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Then click on login
+2022-12-29 15:59:34,795 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Test is failed
+2022-12-29 16:03:53,657 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Url is opened
+2022-12-29 16:03:54,241 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter UserName
+2022-12-29 16:03:55,356 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter password
+2022-12-29 16:03:57,352 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Then click on login
+2022-12-29 16:03:57,493 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Test is failed
+2022-12-29 16:08:39,614 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Url is opened
+2022-12-29 16:08:41,119 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter UserName
+2022-12-29 16:08:41,524 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter password
+2022-12-29 16:08:44,664 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Then click on login
+2022-12-29 16:08:45,157 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Test is failed
+2022-12-29 16:11:15,279 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Url is opened
+2022-12-29 16:11:16,239 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter UserName
+2022-12-29 16:11:16,597 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter password
+2022-12-29 16:11:20,418 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Then click on login
+2022-12-29 16:11:20,438 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Test is failed
+2022-12-29 16:14:13,058 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Url is opened
+2022-12-29 16:14:13,457 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter UserName
+2022-12-29 16:14:13,686 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter password
+2022-12-29 16:14:14,418 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Then click on login
+2022-12-29 16:14:14,440 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Test is failed
+2022-12-29 16:17:16,132 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Url is opened
+2022-12-29 16:17:16,521 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter UserName
+2022-12-29 16:17:16,760 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter password
+2022-12-29 16:17:20,093 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Then click on login
+2022-12-29 16:17:20,114 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Test is failed
+2022-12-29 16:21:00,888 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Url is opened
+2022-12-29 16:21:01,550 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter UserName
+2022-12-29 16:21:01,757 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter password
+2022-12-29 16:21:05,059 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Then click on login
+2022-12-29 16:21:05,077 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Test is failed
+2023-01-03 12:17:09,686 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Url is opened
+2023-01-03 12:17:10,156 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter UserName
+2023-01-03 12:17:10,380 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Enter password
+2023-01-03 12:17:13,852 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Then click on login
+2023-01-03 12:17:13,871 [main] INFO com.internetBanking.testCases.TC_LoginTest_001 - Test is failed
+2023-01-03 12:24:15,855 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a user name
+2023-01-03 12:24:16,272 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a password
+2023-01-03 12:24:20,099 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Login Passed
+2023-01-03 12:24:25,061 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a user name
+2023-01-03 12:24:25,241 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a password
+2023-01-03 12:24:29,661 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a user name
+2023-01-03 12:24:29,952 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a password
+2023-01-03 12:24:34,196 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a user name
+2023-01-03 12:24:34,339 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a password
+2023-01-03 12:24:38,716 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a user name
+2023-01-03 12:24:38,912 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a password
+2023-01-07 10:07:39,822 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-07 10:07:40,347 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-07 10:07:48,717 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-07 10:12:58,372 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-07 10:12:58,536 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-07 10:13:06,337 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-07 10:27:29,938 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-07 10:27:30,362 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-07 10:27:37,307 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-07 10:29:06,186 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-07 10:29:06,462 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-07 10:29:09,916 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-07 10:30:36,599 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a user name
+2023-01-07 10:30:36,878 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a password
+2023-01-07 10:30:41,422 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Login Passed
+2023-01-07 10:30:46,989 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a user name
+2023-01-07 10:30:47,147 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a password
+2023-01-07 10:30:51,563 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a user name
+2023-01-07 10:30:52,443 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a password
+2023-01-07 10:30:57,293 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a user name
+2023-01-07 10:30:57,450 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a password
+2023-01-07 10:31:02,207 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a user name
+2023-01-07 10:31:02,354 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a password
+2023-01-07 10:31:15,132 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-07 10:31:15,320 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-07 10:31:18,740 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-07 10:32:05,623 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-07 10:32:05,853 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-07 10:32:07,907 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-07 10:32:19,861 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Validation part
+2023-01-07 10:40:24,660 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-07 10:40:24,936 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-07 10:40:25,525 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-07 10:42:13,224 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-07 10:42:13,433 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-07 10:42:17,054 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-07 10:44:46,283 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-07 10:44:46,529 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-07 10:44:53,735 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-07 10:46:24,749 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-07 10:46:24,990 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-07 10:46:31,731 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-07 10:49:03,667 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-07 10:49:03,904 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-07 10:49:05,974 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-07 10:52:41,936 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-07 10:52:42,176 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-07 10:52:56,249 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-08 07:37:54,313 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Url is opened
+2023-01-08 07:37:54,750 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter UserName
+2023-01-08 07:37:55,113 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter password
+2023-01-08 07:37:56,401 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Then click on login
+2023-01-08 07:37:56,421 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Test is failed
+2023-01-08 10:28:52,258 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Url is opened
+2023-01-08 10:28:53,283 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter UserName
+2023-01-08 10:28:54,060 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter password
+2023-01-08 10:28:58,601 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Then click on login
+2023-01-08 10:28:58,632 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Test is failed
+2023-01-08 10:43:41,394 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Url is opened
+2023-01-08 10:43:41,783 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter UserName
+2023-01-08 10:43:42,088 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter password
+2023-01-08 10:43:42,884 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Then click on login
+2023-01-08 10:43:42,929 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Test is failed
+2023-01-08 12:26:38,105 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Url is opened
+2023-01-08 12:26:38,460 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter UserName
+2023-01-08 12:26:38,747 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter password
+2023-01-08 12:26:42,872 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Then click on login
+2023-01-08 12:26:42,903 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Test is failed
+2023-01-08 12:29:52,953 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Url is opened
+2023-01-08 12:29:53,254 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter UserName
+2023-01-08 12:29:53,418 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter password
+2023-01-08 12:29:54,111 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Then click on login
+2023-01-08 12:29:54,149 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Test is failed
+2023-01-10 07:10:23,174 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Url is opened
+2023-01-10 07:10:23,887 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter UserName
+2023-01-10 07:10:24,245 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter password
+2023-01-10 07:10:36,607 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Then click on login
+2023-01-10 07:10:36,830 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Test is failed
+2023-01-10 07:26:49,768 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Url is opened
+2023-01-10 07:26:50,531 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter UserName
+2023-01-10 07:26:50,680 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter password
+2023-01-10 07:27:11,629 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Then click on login
+2023-01-10 07:27:11,650 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Test is failed
+2023-01-10 07:30:59,718 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Url is opened
+2023-01-10 07:31:00,120 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter UserName
+2023-01-10 07:31:00,307 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter password
+2023-01-10 07:31:00,906 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Then click on login
+2023-01-10 07:31:00,929 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Test is failed
+2023-01-11 15:53:04,020 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Url is opened
+2023-01-11 15:53:04,491 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter UserName
+2023-01-11 15:53:05,612 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter password
+2023-01-11 15:53:06,209 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Then click on login
+2023-01-11 15:56:16,536 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Url is opened
+2023-01-11 15:56:16,902 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter UserName
+2023-01-11 15:56:17,137 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter password
+2023-01-11 15:56:17,783 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Then click on login
+2023-01-11 16:03:10,381 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Url is opened
+2023-01-11 16:03:11,168 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter UserName
+2023-01-11 16:03:11,867 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter password
+2023-01-11 16:03:13,306 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Then click on login
+2023-01-11 16:08:42,775 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Url is opened
+2023-01-11 16:08:43,149 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter UserName
+2023-01-11 16:08:44,302 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter password
+2023-01-11 16:08:45,524 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Then click on login
+2023-01-11 16:10:12,909 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Url is opened
+2023-01-11 16:10:13,224 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter UserName
+2023-01-11 16:10:13,468 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter password
+2023-01-11 16:10:14,304 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Then click on login
+2023-01-12 14:47:50,032 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Url is opened
+2023-01-12 14:47:51,211 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter UserName
+2023-01-12 14:47:52,557 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter password
+2023-01-12 14:47:59,803 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Then click on login
+2023-01-12 14:47:59,867 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Test is failed
+2023-01-12 14:48:20,023 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a user name
+2023-01-12 14:48:20,310 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a password
+2023-01-12 14:48:25,911 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a user name
+2023-01-12 14:48:26,074 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a password
+2023-01-12 14:48:31,433 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a user name
+2023-01-12 14:48:32,599 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a password
+2023-01-12 14:48:37,247 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a user name
+2023-01-12 14:48:37,554 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a password
+2023-01-12 14:48:45,954 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a user name
+2023-01-12 14:48:46,964 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - provide a password
+2023-01-12 14:50:37,847 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Url is opened
+2023-01-12 14:50:38,230 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter UserName
+2023-01-12 14:50:38,651 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Enter password
+2023-01-12 14:50:44,701 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Then click on login
+2023-01-12 14:50:44,727 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - Test is failed
+2023-01-12 14:52:05,558 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-12 14:52:05,761 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-12 14:52:10,547 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-12 14:53:06,872 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-12 14:53:07,189 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-12 14:53:10,183 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-12 14:55:51,503 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-12 14:55:52,199 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-12 14:55:59,185 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-12 15:02:50,105 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-12 15:02:50,365 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-12 15:02:58,138 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-12 15:04:40,417 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-12 15:04:40,977 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-12 15:04:49,401 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-12 15:06:12,860 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-12 15:06:13,288 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-12 15:06:17,914 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-12 15:08:11,792 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-12 15:08:12,073 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-12 15:08:19,725 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-13 09:38:51,087 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-13 09:38:51,286 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-13 09:38:58,971 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-13 12:09:37,957 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-13 12:09:38,326 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-13 12:09:50,900 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
+2023-01-15 09:54:14,316 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - user name must be provided
+2023-01-15 09:54:14,636 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - enter a password
+2023-01-15 09:54:24,420 [main] INFO com.internetBanking.testCases.TC_Login_DDT_002_ - providing customer details
